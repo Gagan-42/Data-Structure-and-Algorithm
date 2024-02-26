@@ -5,6 +5,7 @@ package Patterns;
  ***
  **
  *
+ this is me
  */
 
 public class InvertedHalfPyramid {
